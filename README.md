@@ -1,2 +1,4 @@
 # site-ecommerce-mobile
-Um projeto pessoal para desafiar minhas habilidades como desenvolvedor júnior. 
+
+Mais um projeto, desta vez será um site e-commerce. 
+Que Deus me ajude :exploding_head:

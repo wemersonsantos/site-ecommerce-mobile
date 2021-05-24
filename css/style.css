@@ -36,3 +36,14 @@ article {
 #slider img.selected { 
     opacity: 1;
 }
+
+section .imgPublicity{
+    width: 50%;
+    max-width: 350px;
+    height: 50vw;
+    max-height: 350px;
+
+    object-fit: contain;
+
+}
+

@@ -4,12 +4,6 @@
     top: -38px;
 }
 
-article {
-    display: flex;
-    flex-direction: center;
-    justify-content: center;
-    align-items: center;
-}
 
 #slider {
     width: 80%;
@@ -37,6 +31,10 @@ article {
     opacity: 1;
 }
 
+section .sectext{
+    text-align: center;
+}
+
 section .imgPublicity{
     width: 50%;
     max-width: 350px;
@@ -47,3 +45,16 @@ section .imgPublicity{
 
 }
 
+section .imgPub a{
+    width: calc(100% - 40px);
+    margin: auto;
+}
+
+footer #socialNetworks{
+    border-bottom: 1px solid white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
